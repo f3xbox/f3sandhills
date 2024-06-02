@@ -9,7 +9,7 @@ import Hero from './_components/Hero';
 
 // #region regional images
 // replace these with your region's own images
-import f3MuletownWhite from '../../public/f3-muletown-white.png';
+import f3LogoWhite from '../../public/f3-logo-white.png';
 import f3HeroImg from '../../public/f3sandhillspic1.jpg';
 // #endregion
 
@@ -48,7 +48,7 @@ export default function Page() {
             </p>
           </div>
           <Image
-            src={f3MuletownWhite}
+            src={f3LogoWhite}
             alt={`${en.region_name} White`}
             width={200}
             className="pt-8 pb-4 my-0 mx-auto"
