@@ -50,7 +50,7 @@ export default function Page() {
           <Image
             src={f3LogoWhite}
             alt={`${en.region_name} White`}
-            width={200}
+            width={300}
             className="pt-8 pb-4 my-0 mx-auto"
           />
         </section>
