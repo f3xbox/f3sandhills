@@ -62,8 +62,8 @@ export default function Page() {
               public spaces around {en.region_city}, {en.region_state}.
             </p>
             <p className="pb-10 font-bold">
-              We hold {workouts.workouts.length}+ workouts in {en.region_city} each week. Weekday workouts are
-              generally 45 MIN & 60 MIN on Saturday.
+              We hold {workouts.workouts.length}+ workouts each week. Weekday workouts are
+              generally 45 MIN, 60 MIN on Saturday.
             </p>
           </div>
           <div>
