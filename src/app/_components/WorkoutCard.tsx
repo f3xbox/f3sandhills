@@ -22,9 +22,7 @@ export const WorkoutDays = {
   WEDNESDAY: 'Wednesday',
   THURSDAY: 'Thursday',
   FRIDAY: 'Friday',
-  THIRD_FRIDAY: 'Every Third Friday',
   SATURDAY: 'Saturday',
-  SATURDAY_EXCEPT_LAST: 'All Saturdays Except the Last of the Month',
   SUNDAY: 'Sunday',
 };
 function dayToNumber(day: string) {
@@ -90,11 +88,10 @@ export function workoutsAnotherDay(workouts: WorkoutCardProps[]) {
   return result;
 }
 export const WorkoutTimes = {
-  '0515': '5:15 AM - 6:15 AM',
-  '0520': '5:20 AM - 6:15 AM',
-  '0525': '5:25 AM - 6:15 AM',
+  '0445': '4:45 AM - 5:30 AM',
   '0530': '5:30 AM - 6:15 AM',
-  '0600': '6:00 AM - 7:00 AM',
+  '0630': '6:30 AM - 7:30 AM',
+  '1800': '6:00 PM - 6:45 PM',
 };
 
 interface WorkoutCardProps {
