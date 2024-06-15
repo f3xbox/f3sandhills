@@ -10,7 +10,7 @@ import WorkoutCard, {
 } from '../_components/WorkoutCard';
 
 /** replace with a regional image */
-import f3HeroImg from '../../../public/f3-darkhorse-2023-11-04.jpg';
+import f3HeroImg from '../../../public/murph-2024-sh.jpg';
 
 import en from '../../locales/en.json'
 import workouts from '../../workouts.json';
