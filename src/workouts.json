@@ -2,124 +2,104 @@
   "$schema": "./workouts.schema.json",
   "workouts": [
     {
-      "ao": "Murph Monday",
-      "style": "Murph",
+      "ao": "PFT",
+      "style": "Running",
       "location": {
-        "href": "https://goo.gl/maps/UEULdFoyEpTRwLLo9",
-        "text": "Woodland Park (11th st Entrance)"
-      },
-      "day": "Monday",
-      "time": "5:25 AM - 6:15 AM"
-    },
-    {
-      "ao": "The Phoenix",
-      "style": "Beatdown",
-      "location": {
-        "href": "https://goo.gl/maps/UEULdFoyEpTRwLLo9",
-        "text": "Woodland Park (11th st Entrance)"
+        "href": "https://www.google.com/maps/dir/?api=1&destination=250%20Voit%20Gilmore%20Ln,%20Southern%20Pines,%20NC,%2028387,%20United%20States",
+        "text": "Pinecrest High School"
       },
       "day": "Monday",
       "time": "5:30 AM - 6:15 AM"
     },
     {
-      "ao": "Arena",
-      "style": "Rucks & Sandbags",
+      "ao": "Outpost",
+      "style": "Bootcamp",
       "location": {
-        "href": "https://goo.gl/maps/8UenhCFvXi6KQFWaA",
-        "text": "Riverwalk Park (Basketball Court)"
-      },
-      "day": "Tuesday",
-      "time": "5:15 AM - 6:15 AM"
-    },
-    {
-      "ao": "Compass",
-      "style": "Beatdown",
-      "location": {
-        "href": "https://goo.gl/maps/BvGZ49ycjCovcZbP6",
-        "text": "Columbia Public Square"
+        "href": "https://www.google.com/maps/dir/?api=1&destination=18%20Rassie%20Wicker%20Drive,%20Pinehurst,%20NC,%2028374,%20United%20States",
+        "text": "Rassie Wicker Park"
       },
       "day": "Tuesday",
       "time": "5:30 AM - 6:15 AM"
     },
     {
-      "ao": "Slag Mountain",
+      "ao": "Armageddon",
+      "style": "Bootcamp",
+      "location": {
+        "href": "https://www.google.com/maps/dir/?api=1&destination=202-312%20Rockingham%20St,%20Carthage,%20NC,%2028327,%20United%20States",
+        "text": "Nancy Kaiser Park"
+      },
+      "day": "Wednesday",
+      "time": "5:30 AM - 6:15 AM"
+    },
+    {
+      "ao": "Alcatraz",
+      "style": "Bootcamp",
+      "location": {
+        "href": "https://www.google.com/maps/dir/?api=1&destination=521%20Montford%20St,%20Aberdeen,%20NC,%2028315,%20United%20States",
+        "text": "Old Aberdeen Elementary School Field"
+      },
+      "day": "Wednesday",
+      "time": "6:00 PM - 6:45 PM"
+    },
+    {
+      "ao": "Blair Witch",
       "style": "Run",
       "location": {
-        "href": "https://goo.gl/maps/ps3AKHmqueDevzQt7",
-        "text": "Maury County Park (Kids Kingdom)"
+        "href": "https://www.google.com/maps/dir/?api=1&destination=140%20SE%20Broad%20St,%20Southern%20Pines,%20NC,%2028387,%20United%20States",
+        "text": "S. Pines Downtown Park"
       },
-      "day": "Wednesday",
-      "time": "5:20 AM - 6:15 AM"
+      "day": "Thursday",
+      "time": "4:45 AM - 5:30 AM"
     },
     {
-      "ao": "Iron Mule",
-      "style": "Weight Lifting",
+      "ao": "Stronghold",
+      "style": "Bootcamp",
       "location": {
-        "href": "https://goo.gl/maps/ps3AKHmqueDevzQt7",
+        "href": "https://www.google.com/maps/dir/?api=1&destination=140%20SE%20Broad%20St,%20Southern%20Pines,%20NC,%2028387,%20United%20States",
         "text": "Maury County Park (Kids Kingdom)"
-      },
-      "day": "Wednesday",
-      "time": "5:30 AM - 6:15 AM"
-    },
-    {
-      "ao": "The Refuge",
-      "style": "Trail Run",
-      "location": {
-        "href": "https://goo.gl/maps/iQJLUJ5kk3hj7SwV9",
-        "text": "Chickasaw Trace Park"
       },
       "day": "Thursday",
       "time": "5:30 AM - 6:15 AM"
     },
     {
-      "ao": "Ruck and Roll",
-      "style": "Ruck",
+      "ao": "Piranha",
+      "style": "Bootcamp",
       "location": {
-        "href": "https://goo.gl/maps/8UenhCFvXi6KQFWaA",
-        "text": "Riverwalk Park (Basketball Court)"
+        "href": "https://www.google.com/maps/dir/?api=1&destination=301%20Lake%20Park%20Crossing,%20Aberdeen,%20NC,%2028315,%20United%20States",
+        "text": "Aberdeen Town Lake"
       },
       "day": "Thursday",
-      "time": "5:30 AM - 6:15 AM"
+      "time": "6:00 PM - 6:45 PM"
     },
     {
-      "ao": "The Challenge",
-      "style": "Beatdown",
+      "ao": "Paynehurt",
+      "style": "Intense Bootcamp",
       "location": {
-        "href": "https://goo.gl/maps/Rv4udm1mpBXZFdGy8",
-        "text": "Columbia State Community College"
+        "href": "https://www.google.com/maps/dir/?api=1&destination=18%20Rassie%20Wicker%20Drive,%20Pinehurst,%20NC,%2028374,%20United%20States",
+        "text": "Rassie Wicker Park"
       },
       "day": "Friday",
       "time": "5:30 AM - 6:15 AM"
     },
     {
-      "ao": "Outpost",
-      "style": "3rd F (Faith)",
+      "ao": "Ice Cream Run\Ruck",
+      "style": "Run\Ruck",
       "location": {
-        "href": "https://goo.gl/maps/j3YiN4xen7mRy8RK8",
-        "text": "Maury County Park (Monsanto Pavilion)"
-      },
-      "day": "Every Third Friday",
-      "time": "5:15 AM - 6:15 AM"
-    },
-    {
-      "ao": "Darkhorse",
-      "style": "Beatdown",
-      "location": {
-        "href": "https://goo.gl/maps/8UenhCFvXi6KQFWaA",
-        "text": "Riverwalk Park (Basketball Court)"
+        "href": "https://www.google.com/maps/dir/?api=1&destination=140%20SE%20Broad%20St,%20Southern%20Pines,%20NC,%2028387,%20United%20States",
+        "text": "Southern Pines Downtown Park (Basketball Court)"
       },
       "day": "Saturday",
-      "time": "6:00 AM - 7:00 AM"
+      "time": "5:30 AM - 6:15 AM"
     },
     {
-      "ao": "Hawkeye",
-      "style": "Beatdown",
+      "ao": "Flagship",
+      "style": "Bootcamp",
       "location": {
-        "href": "https://maps.app.goo.gl/hpiKvFLT1iGJVwGG8",
-        "text": "Hampshire School"
+        "href": "https://www.google.com/maps/dir/?api=1&destination=140%20SE%20Broad%20St,%20Southern%20Pines,%20NC,%2028387,%20United%20States",
+        "text": "Southern Pines Downtown Park (Basketball Court)"
       },
-      "day": "All Saturdays Except the Last of the Month",
-      "time": "6:00 AM - 7:00 AM"
+      "day": "Saturday",
+      "time": "6:30 AM - 7:30 AM"
     }
   ]
 }
