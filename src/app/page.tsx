@@ -69,8 +69,8 @@ export default function Page() {
           <div>
             <h3 className="pb-6">A PART OF</h3>
             <p className="pb-6">
-              F3 Nation, a network of 3,275 free, peer-led workouts for men in
-              252 regions with a mission to:
+              F3 Nation, a network of 4,652 free, peer-led workouts for men in
+              371 regions with a mission to:
             </p>
             <p className="font-bold pb-6">
               plant, grow and serve small workout groups for men invigorating
