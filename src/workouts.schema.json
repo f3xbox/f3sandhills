@@ -15,14 +15,9 @@
           "style": {
             "type": "string",
             "enum": [
-              "Murph",
-              "Beatdown",
               "Run",
-              "Trail Run",
-              "Ruck",
-              "Rucks & Sandbags",
-              "Weight Lifting",
-              "3rd F (Faith)"
+              "Run or Ruck",
+              "Bootcamp"
             ]
           },
           "location": {
@@ -57,7 +52,7 @@
               "4:45 AM - 5:30 AM",
               "5:30 AM - 6:15 AM",
               "6:30 AM - 7:30 AM",
-              "6:00 AM - 6:45 PM"
+              "6:00 PM - 6:45 PM"
             ]
           }
         }
