@@ -58,7 +58,7 @@ export default function Page() {
           <div>
             <h3 className="pb-6">WE ARE</h3>
             <p className="pb-6">
-              {en.pax_count}+ guys that meet up in small groups to workout in parks and
+              More than {en.pax_count} guys that meet up in small groups to workout in parks and
               public spaces around {en.region_city}, {en.region_state}.
             </p>
             <p className="pb-10 font-bold">
