@@ -87,10 +87,10 @@ export function workoutsAnotherDay(workouts: WorkoutCardProps[]) {
   return result;
 }
 export const WorkoutTimes = {
-  '0445': '4:45 AM - 5:30 AM',
-  '0530': '5:30 AM - 6:15 AM',
-  '0630': '6:30 AM - 7:30 AM',
-  '1800': '6:00 PM - 6:45 PM',
+  '4:45 AM - 5:30 AM': '0445',
+  '5:30 AM - 6:15 AM': '0530',
+  '6:30 AM - 7:30 AM': '0630',
+  '6:00 PM - 6:45 PM': '1800',
 };
 
 interface WorkoutCardProps {
