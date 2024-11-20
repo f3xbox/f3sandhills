@@ -5,8 +5,8 @@
       "ao": "PFT",
       "style": "Running",
       "location": {
-        "href": "https://www.google.com/maps/dir/?api=1&destination=250%20Voit%20Gilmore%20Ln,%20Southern%20Pines,%20NC,%2028387,%20United%20States",
-        "text": "Pinecrest High School"
+        "href": "https://www.google.com/maps/place/35%C2%B013'10.1%22N+79%C2%B024'14.8%22W/@35.2194734,-79.4066949,17z/data=!3m1!4b1!4m4!3m3!8m2!3d35.219469!4d-79.40412?entry=ttu&g_ep=EgoyMDI0MTExNy4wIKXMDSoJLDEwMjExMjMzSAFQAw%3D%3D",
+        "text": "Sandhills Community College"
       },
       "day": "Monday",
       "time": "5:30 AM - 6:15 AM"
@@ -96,7 +96,17 @@
       "style": "Bootcamp",
       "location": {
         "href": "https://www.google.com/maps/dir/?api=1&destination=140%20SE%20Broad%20St,%20Southern%20Pines,%20NC,%2028387,%20United%20States",
-        "text": "Southern Pines Downtown Park (Basketball Court)"
+        "text": "((not on 1st Saturday of month) Southern Pines Downtown Park (Basketball Court)"
+      },
+      "day": "Saturday",
+      "time": "6:30 AM - 7:30 AM"
+    },
+    {
+      "ao": "Outpost",
+      "style": "Bootcamp",
+      "location": {
+        "href": "https://www.google.com/maps/dir/?api=1&destination=18%20Rassie%20Wicker%20Drive,%20Pinehurst,%20NC,%2028374,%20United%20States",
+        "text": "(1st Saturday of the month only) Rassie Wicker Park"
       },
       "day": "Saturday",
       "time": "6:30 AM - 7:30 AM"
